@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://artobeign.github.io/sitemap
+Sitemap: https://artobeign.github.io/app/sitemap
+Sitemap: https://artobeign.github.io/assets/sitemap
+Sitemap: https://artobeign.github.io/css/sitemap
+Sitemap: https://artobeign.github.io/includes/sitemap
+Sitemap: https://artobeign.github.io/item/sitemap
+Sitemap: https://artobeign.github.io/src/sitemap
